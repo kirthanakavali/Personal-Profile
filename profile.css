@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+  body {
+  font-family: courier;
+  background-color: white;
+  }
+.maincontainer {
+  background-color: white;
+  padding: 30px;
+  justify-content: center;
+}
